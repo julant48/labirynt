@@ -3,9 +3,9 @@ projekt zaliczeniowy-labirynt
 Nazwa gry: "Ucieczka z AGH" 
 
 Krótki opis:
-Gracz wciela się w studenta, którego zadaniem jest przejść 10 poziomów–semestrów. Każdy poziom to losowo generowany labirynt, w którym trzeba: -odnaleźć drogę do wyjścia (zaliczenie semestru), -unikać pułapek, -zbierać punkty ECTS i ulepszenia, -walczyć z rosnącą trudnością (większe labirynty, więcej pułapek). Po każdym poziomie student zdobywa ulepszenia.
+Gracz wciela się w studenta, którego zadaniem jest przejść 5 poziomów–tyle ile lat studiów. Każdy poziom to losowo generowany labirynt, w którym trzeba: -odnaleźć drogę do wyjścia (zaliczenie semestru), -unikać pułapek, -zbierać punkty ECTS i ulepszenia, -walczyć z rosnącą trudnością (większe labirynty, więcej pułapek). Po każdym poziomie student zdobywa ulepszenia.
 
-Cel:Dotrzeć do poziomu 10 (koniec studiów magisterskich), przejść największy i najtrudniejszy labirynt i "obronić magisterkę".
+Cel:Dotrzeć do poziomu 5 (koniec studiów magisterskich), przejść największy i najtrudniejszy labirynt i "obronić magisterkę".
 
 LABIRYNTY: Labirynt generowany losowo Rozmieszczone są: 
 -ściany 
@@ -15,12 +15,12 @@ LABIRYNTY: Labirynt generowany losowo Rozmieszczone są:
 -czasami artefakty
 
 Każdy semestr generuje większą planszę: 
--Semestry 1–3 
-- małe labirynty
-- -4–6 - średnie
-- -7 - duży (boss: obrona inżynierki)
-- -8–9 - duże
-- -10 - ogromny labirynt finałowy
+Lata:
+- -1 - mały labirynt
+- -2 - średni
+- -3 - duży (boss: obrona inżynierki)
+- -4 - duży
+- -5 - ogromny labirynt finałowy
 
 PROFIL GRACZA (STUDENTA) Parametry postaci: 
 Wiedza (HP)- reprezentuje energię studenta
