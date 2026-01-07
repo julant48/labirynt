@@ -16,11 +16,11 @@ LABIRYNTY: Labirynt generowany losowo Rozmieszczone są:
 
 Każdy semestr generuje większą planszę: 
 Lata:
-- -1 - mały labirynt
-- -2 - średni
-- -3 - duży (boss: obrona inżynierki)
-- -4 - duży
-- -5 - ogromny labirynt finałowy
+- 1 - mały labirynt
+- 2 - średni
+- 3 - duży (boss: obrona inżynierki)
+- 4 - duży
+- 5 - ogromny labirynt finałowy
 
 PROFIL GRACZA (STUDENTA) Parametry postaci: 
 Wiedza (HP)- reprezentuje energię studenta
@@ -44,7 +44,7 @@ Po przejściu semestru gracz wybiera jedno ulepszenie:
 Większa stamina
 Talizman Szczęścia - anuluje pułapkę
 
-POZIOM 7 – OBRONA INŻYNIERKI (BOSS) Opis: Labirynt DUŻY Na końcu znajduje się "pokój obrony”
+POZIOM 3 – OBRONA INŻYNIERKI (BOSS) Opis: Labirynt DUŻY Na końcu znajduje się "pokój obrony”
 Aby przejść gracz musi: 
 -zebrać wymagane ECTS (np. 30) 
 -zebrać w labiryncie artefakty(promotor i praca) 
@@ -56,7 +56,7 @@ odznaka: „Dyplom Inżyniera”
 +50 wiedzy
 odblokowanie magisterki
 
-POZIOM 10 – OBRONA MAGISTERSKA (MEGA BOSS) 
+POZIOM 5 – OBRONA MAGISTERSKA (MEGA BOSS) 
 Ostateczne wyzwanie: 
 -Największy labirynt 
 -Bardzo dużo pułapek 
