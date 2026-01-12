@@ -27,7 +27,7 @@ Wiedza (HP)- reprezentuje energię studenta
 gdy student wpada na pułapkę to traci punkty wiedzy
 gdy wiedza spadnie do 0, trzeba powtarzać 
 poziom ECTS (punkty zbierane w labiryncie):
-Stamina (szybkość poruszania)
+energia
 
 PUŁAPKI 
 Pułapki reprezentują doświdczenia studenta:
@@ -38,9 +38,9 @@ Pułapki reprezentują doświdczenia studenta:
 5.Złe oznaczenia drzwi na wydziale -odwraca sterowanie gracza na 10 ruchów -W górę = dół, lewo = prawo 
 6.Zarwana nocka: -zmniejsza energię gracza
 ULEPSZENIA PO KAŻDYM POZIOMIE 
-Po przejściu semestru gracz wybiera jedno ulepszenie:
+Po przejściu roku gracz wybiera jedno ulepszenie:
 +10 wiedzy
-Większa stamina
+Większa energia
 Talizman Szczęścia - anuluje pułapkę
 
 POZIOM 3 – OBRONA INŻYNIERKI (BOSS) Opis: Labirynt DUŻY Na końcu znajduje się "pokój obrony”
