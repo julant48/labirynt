@@ -35,9 +35,8 @@ Pułapki reprezentują doświdczenia studenta:
 2.Projekt z terminem na wczoraj -spowalnia gracza 
 3.Sesja poprawkowa -przerzuca gracza na początek labiryntu 
 4.Egzamin -duże obrażenia 
-5.Złe oznaczenia drzwi na wydziale -Odwraca sterowanie gracza na 10 ruchów -W górę = dół, lewo = prawo 
-6.Zarwana nocka: -spowalnia gracza -obraca plansze o 90 stopni na 10 ruchow
-
+5.Złe oznaczenia drzwi na wydziale -odwraca sterowanie gracza na 10 ruchów -W górę = dół, lewo = prawo 
+6.Zarwana nocka: -zmniejsza energię gracza
 ULEPSZENIA PO KAŻDYM POZIOMIE 
 Po przejściu semestru gracz wybiera jedno ulepszenie:
 +10 wiedzy
