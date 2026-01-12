@@ -3,7 +3,7 @@ projekt zaliczeniowy-labirynt
 Nazwa gry: "Ucieczka z AGH" 
 
 Krótki opis:
-Gracz wciela się w studenta, którego zadaniem jest przejść 5 poziomów–tyle ile lat studiów. Każdy poziom to losowo generowany labirynt, w którym trzeba: -odnaleźć drogę do wyjścia (zaliczenie semestru), -unikać pułapek, -zbierać punkty ECTS i ulepszenia, -walczyć z rosnącą trudnością (większe labirynty, więcej pułapek). Po każdym poziomie student zdobywa ulepszenia.
+Gracz wciela się w studenta, którego zadaniem jest przejść 5 poziomów–tyle ile lat studiów. Każdy poziom to losowo generowany labirynt, w którym trzeba: -odnaleźć drogę do wyjścia (zaliczenie roku), -unikać pułapek, -zbierać punkty ECTS i ulepszenia, -walczyć z rosnącą trudnością (większe labirynty, więcej pułapek). Po każdym poziomie student zdobywa ulepszenia.
 
 Cel:Dotrzeć do poziomu 5 (koniec studiów magisterskich), przejść największy i najtrudniejszy labirynt i "obronić magisterkę".
 
@@ -32,11 +32,10 @@ energia
 PUŁAPKI 
 Pułapki reprezentują doświdczenia studenta:
 1.Wejściówka -10 wiedzy 
-2.Projekt z terminem na wczoraj -spowalnia gracza 
-3.Sesja poprawkowa -przerzuca gracza na początek labiryntu 
-4.Egzamin -duże obrażenia 
-5.Złe oznaczenia drzwi na wydziale -odwraca sterowanie gracza na 10 ruchów -W górę = dół, lewo = prawo 
-6.Zarwana nocka: -zmniejsza energię gracza
+2.Sesja poprawkowa -przerzuca gracza na początek labiryntu 
+3.Egzamin -duże obrażenia 
+4.Złe oznaczenia drzwi na wydziale -odwraca sterowanie gracza na 10 ruchów -W górę = dół, lewo = prawo 
+5.Zarwana nocka: -zmniejsza energię gracza
 ULEPSZENIA PO KAŻDYM POZIOMIE 
 Po przejściu roku gracz wybiera jedno ulepszenie:
 +10 wiedzy
@@ -45,10 +44,9 @@ Talizman Szczęścia - anuluje pułapkę
 
 POZIOM 3 – OBRONA INŻYNIERKI (BOSS) Opis: Labirynt DUŻY Na końcu znajduje się "pokój obrony”
 Aby przejść gracz musi: 
--zebrać wymagane ECTS (np. 30) 
 -zebrać w labiryncie artefakty(promotor i praca) 
 -znaleźć komisję(wyjść z labiryntu) 
--odpowiedzieć na losowe pytanie w "pokoju obrony" (3 pytania abc)
+-odpowiedzieć na losowe pytanie w "pokoju obrony" (3 pytania)
 
 Nagroda:
 odznaka: „Dyplom Inżyniera”
@@ -62,7 +60,7 @@ Ostateczne wyzwanie:
 Aby ukończyć gracz musi: 
 -zebrać wszystkie artefakty(praca,promotor, ankiety, literatura) 
 -dotrzeć do "Auli Obrony”-wyjście 
--odpowiedzieć na losowe pytania (3 pytania abc)
+-odpowiedzieć na losowe pytania (3 pytania)
 
 Po wygranej:
-zdobywasz odznaka tytuł Magistra i gra wyświetla statystyki gracza(czas przejścia wszystkich poziomów, zdobyte ECTS,finale ulepszenia)
+zdobywasz odznaka tytuł Magistra inżyniera i gra wyświetla statystyki gracza(czas przejścia wszystkich poziomów,zebraną wiedzę, zdobyte ECTS,finale ulepszenia).
