@@ -63,4 +63,4 @@ Aby ukończyć gracz musi:
 -odpowiedzieć na losowe pytania (3 pytania)
 
 Po wygranej:
-zdobywasz odznaka tytuł Magistra inżyniera i gra wyświetla statystyki gracza(czas przejścia wszystkich poziomów,zebraną wiedzę, zdobyte ECTS,finale ulepszenia).
+zdobywasz odznaka tytuł Magistra inżyniera i gra wyświetla statystyki gracza(czas przejścia wszystkich poziomów,zebraną wiedzę, zdobyte ECTS).
