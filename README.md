@@ -38,8 +38,8 @@ Pułapki reprezentują doświdczenia studenta:
 5.Zarwana nocka: -zmniejsza energię gracza
 ULEPSZENIA PO KAŻDYM POZIOMIE 
 Po przejściu roku gracz wybiera jedno ulepszenie:
-+10 wiedzy
-Większa energia
++20 wiedzy
++1 energia
 Talizman Szczęścia - anuluje pułapkę
 
 POZIOM 3 – OBRONA INŻYNIERKI (BOSS) Opis: Labirynt DUŻY Na końcu znajduje się "pokój obrony”
