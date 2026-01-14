@@ -64,3 +64,6 @@ Aby ukończyć gracz musi:
 
 Po wygranej:
 zdobywasz odznaka tytuł Magistra inżyniera i gra wyświetla statystyki gracza(czas przejścia wszystkich poziomów,zebraną wiedzę, zdobyte ECTS).
+
+Aby uruchomoić grę należy pobrać wszystkie pliki i posiadać skonfigurowaną bibliotekę sfml.
+Po skopiowaniu kodu jedyne co trzeba zrobić to skompilować program. Gra się uruchomi.
